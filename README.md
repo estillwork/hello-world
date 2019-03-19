@@ -1,2 +1,2 @@
 # hello-world
-following along with python class
+Eric's place for following along with python class
